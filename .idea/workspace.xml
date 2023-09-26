@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1058bf2-0c72-4cfa-a65b-0fa80410ac03" name="Changes" comment="test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VULuP4glbrOGxLJk40uXlzlvNy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/Project/Gestion-De-Stock-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "ce4d9ddeafe048b09bc3e4fb51365e32"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ],
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.abdel.gestiondestock.controller" />
+      <recent name="com.abdel.gestiondestock.service" />
+      <recent name="com.abdel.gestiondestock.service.Impl" />
+      <recent name="com.abdel.gestiondestock.DTO" />
+      <recent name="com.abdel.gestiondestock.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.abdel.gestiondestock.service.Impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CategoryServiceImpTest">
+    <configuration name="CategoryServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-De-Stock-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdel.gestiondestock.service.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.abdel.gestiondestock.service.Impl" />
+      <option name="MAIN_CLASS_NAME" value="com.abdel.gestiondestock.service.Impl.CategoryServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImpTest.shouldSaveCategoryWithSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-De-Stock-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdel.gestiondestock.service.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.abdel.gestiondestock.service.Impl" />
+      <option name="MAIN_CLASS_NAME" value="com.abdel.gestiondestock.service.Impl.CategoryServiceImpTest" />
+      <option name="METHOD_NAME" value="shouldSaveCategoryWithSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceImpTest.shouldUpdateCategoryWithSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-De-Stock-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdel.gestiondestock.service.Impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.abdel.gestiondestock.service.Impl" />
+      <option name="MAIN_CLASS_NAME" value="com.abdel.gestiondestock.service.Impl.CategoryServiceImpTest" />
+      <option name="METHOD_NAME" value="shouldUpdateCategoryWithSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionDeStockApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion-De-Stock-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdel.gestiondestock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.abdel.gestiondestock" />
+      <option name="MAIN_CLASS_NAME" value="com.abdel.gestiondestock.GestionDeStockApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionDeStockApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Gestion-De-Stock-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.abdel.gestiondestock.GestionDeStockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionDeStockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gestiondestock" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.abdel.gestiondestock.GestionDeStockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CategoryServiceImpTest" />
+        <item itemvalue="JUnit.CategoryServiceImpTest.shouldUpdateCategoryWithSuccess" />
+        <item itemvalue="JUnit.CategoryServiceImpTest.shouldSaveCategoryWithSuccess" />
+        <item itemvalue="JUnit.GestionDeStockApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1058bf2-0c72-4cfa-a65b-0fa80410ac03" name="Changes" comment="" />
+      <created>1694885939544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694885939544</updated>
+      <workItem from="1694885940898" duration="8504000" />
+      <workItem from="1695045181449" duration="2187000" />
+      <workItem from="1695049427468" duration="36413000" />
+      <workItem from="1695216687605" duration="29302000" />
+      <workItem from="1695581970292" duration="2040000" />
+      <workItem from="1695660848822" duration="157000" />
+      <workItem from="1695661032029" duration="758000" />
+      <workItem from="1695662390230" duration="3629000" />
+      <workItem from="1695668153791" duration="26128000" />
+      <workItem from="1695755888990" duration="371000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1695662470594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695662470594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1695664334488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695664334489</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1695664657137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695664657137</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1695666274396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695666274396</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
