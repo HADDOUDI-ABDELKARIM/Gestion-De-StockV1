@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1058bf2-0c72-4cfa-a65b-0fa80410ac03" name="Changes" comment="Delete .github directory">
-      <changelist_data name="ABDELKARIM HADDOUDI" email="104686964+haddoudi-abdelkarim@users.noreply.github.com" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abdel/gestiondestock/service/Impl/CategoryServiceImpTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +230,7 @@
       <workItem from="1717007543897" duration="3031000" />
       <workItem from="1717060347974" duration="1969000" />
       <workItem from="1717070503012" duration="73000" />
-      <workItem from="1717146808250" duration="3019000" />
+      <workItem from="1717146808250" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1695662470594</created>
@@ -276,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717149538462</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Delete .github directory">
+      <option name="closed" value="true" />
+      <created>1717149982748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717149982748</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Delete .github directory">
+      <option name="closed" value="true" />
+      <created>1717149988284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717149988284</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
